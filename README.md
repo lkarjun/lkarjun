@@ -17,9 +17,10 @@
 
   ### Important Repository 🛑
 
-  * 💾 100 Days of  **Nlp Workout** - [🔗](https://github.com/lkarjun/nlp-workouts)
+  * 💾 100 Days of  **Nlp Workout** - [🔗](https://github.com/lkarjun/nlp-workouts) 
   
     !['Status'](https://img.shields.io/badge/status-in%20progress-brightgreen?style=for-the-badge)
+    !['Project Count'](https://img.shields.io/endpoint?color=Green&style=for-the-badge&url=https%3A%2F%2Fziy0xq.deta.dev%2Fcount-dir%2Flkarjun%2Fnlp-workouts%2F2)
   ---
 
   **Thanks for visit my profile 😊**
