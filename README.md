@@ -4,7 +4,7 @@
 
   ![Lalkrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkarjun&show_icons=true&theme=algolia)
 
-   * 📖 I am undergraduate student👨‍🎓
+   * 📖 I am an undergraduate student👨‍🎓
 
   - 🌱 I’m currently Learning MLOP's😎.
   
