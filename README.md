@@ -1,16 +1,14 @@
-### Hi there 👋
+- ### Hi there, I'm Lalkrishna👋
+  [![Website](https://img.shields.io/website?label=lkarjun&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/lkarjun/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkarjun/)
 
-<!--
-**lkarjun/lkarjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![Lalkrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkarjun&show_icons=true&theme=algolia)
 
-Here are some ideas to get you started:
+   * 📖 I am undergraduate student👨‍🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 🌱 I’m currently Learning MLOP's😎.
+  
+  - ⚡ Fun fact: I love to build ML Models.
+  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkarjun&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+    
