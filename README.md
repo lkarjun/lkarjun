@@ -8,7 +8,18 @@
 
   - 🌱 I’m currently Learning MLOP's😎.
   
-  - ⚡ Fun fact: I love 💕 to build **ML Modelzz**.
+  - ⚡ Fun fact: Yea, I love 💕 to build **ML Modelzz**.
   
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkarjun&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
     
+
+  ---
+
+  ### Important Repository 🛑
+
+  * 💾 100 Days of  **Nlp Workout** - [🔗](https://github.com/lkarjun/nlp-workouts)
+  
+    !['Status'](https://img.shields.io/badge/status-in%20progress-brightgreen?style=for-the-badge)
+  ---
+
+  **Thanks for visit my profile 😊**
