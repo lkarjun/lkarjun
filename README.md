@@ -8,7 +8,7 @@
 
   - 🌱 I’m currently Learning MLOP's😎.
   
-  - ⚡ Fun fact: I love to build ML Models.
+  - ⚡ Fun fact: I love 💕 to build **ML Modelzz**.
   
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkarjun&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
     
