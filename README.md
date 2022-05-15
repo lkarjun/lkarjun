@@ -18,7 +18,7 @@
   
   - ⚡ Fun fact: Yea, I love 💕 to build **ML Modelzz**.
   
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkarjun&langs_count=4&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkarjun&langs_count=4&theme=radical)
     
 
   ---
