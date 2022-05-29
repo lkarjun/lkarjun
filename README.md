@@ -5,7 +5,7 @@
          width="45"/>
     I'm <b>Lalkrishna Arjun</b></h1> 
 
-  [![Website](https://img.shields.io/website?label=lkarjun&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/lkarjun/)
+  [![Website](https://img.shields.io/website?label=lkarjun&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/lkarjun/)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkarjun/)
   [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lk_arjun_)
   ![Profile View](https://komarev.com/ghpvc/?username=lkarjun&style=for-the-badge)
