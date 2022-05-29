@@ -23,11 +23,11 @@
 
   ---
 
-  ## Important Repository 🛑
+  ### Important Repository 🛑
 
-  * 💾 Project **Octagon** - [🔗](https://github.com/lkarjun/octagon) 
+  * 💾 Project **HeartDisease Prediction - (CML Delivery PROJECT)** - [🔗](https://github.com/lkarjun/octagon) 
   
-    !['Status'](https://img.shields.io/badge/status-completed-brightgreen?style=for-the-badge)
+    !['Status'](https://img.shields.io/badge/status-inprogress-brightgreen?style=for-the-badge)
   ---
 
-  ## **Thanks for visit my profile 😊**
+  ### **Thanks for visit my profile 😊**
