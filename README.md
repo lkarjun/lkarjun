@@ -25,7 +25,7 @@
 
   ### Important Repository 🛑
 
-  * 💾 Project **HeartDisease Prediction - (CML Delivery PROJECT)** - [🔗](https://github.com/lkarjun/octagon) 
+  * 💾 Project **HeartDisease Prediction - (CML Delivery PROJECT)** - [🔗](https://github.com/lkarjun/heartdisease-prediction) 
   
     !['Status'](https://img.shields.io/badge/status-inprogress-brightgreen?style=for-the-badge)
   ---
