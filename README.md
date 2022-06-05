@@ -27,8 +27,10 @@
 ---
 
 <div align='center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=lkarjun&theme=radical' height="300" width="400">
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=lkarjun&theme=radical' width="400">
 </div>
+
+<br>
 
 <div align='center'>
  <div>
