@@ -53,5 +53,5 @@
     <div>
        <p>💾 Project <b>HeartDisease Prediction - (Continuous Machine Learning)</b> <a href='https://github.com/lkarjun/heartdisease-prediction'>🔗</a></p>
     </div>
-    <img src='https://img.shields.io/badge/status-developing-brightgreen?style=flat&color=990000'>
+    <img src='https://img.shields.io/badge/status-completed-brightgreen?style=flat&color=990000'>
 </div>
